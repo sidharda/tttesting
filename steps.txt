@@ -1,0 +1,29 @@
+First add comand 
+next check whether added
+git ststaus -m 
+
+is it required to check all files or only what new one we made
+passcode genearte ela ani cheppara
+
+
+only e2e folder we use 
+
+test->e2e->assets--> csv
+
+team name communication 
+time taken to load a page
+all in milliseconds
+
+will this be only for our team or it affects all teams
+step definitions ---> steps
+steps-> reusability methods
+
+common ->> hooks --> steps
+keep marketing provisioning number
+
+git in it
+git clone 
+
+
+
+
